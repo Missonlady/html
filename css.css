@@ -1,0 +1,12 @@
+body {
+    background-color:wheat;
+}
+
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: coral;
+    border-width: 3px;
+    width: 5%;
+    
+}
